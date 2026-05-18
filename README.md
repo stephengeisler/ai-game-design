@@ -17,4 +17,5 @@ Native AI-generated elements selectively removed where they conflicted with the 
 Monster behavior and cabin finish line integrated into the core game loop
 
 Tools: Aippy generative AI platform, custom prompt engineering, original sound design
-[Play the game here]([https://your-game-url.com](https://share.aippy.ai/p/9hJN))
+
+[Play the game here](https://share.aippy.ai/p/9hJN)
