@@ -1,7 +1,7 @@
 # Designed and developed an interactive racing game using Aippy's generative AI platform. Unlike typical platform outputs generated from minimal input, this project involved extensive iterative prompting, creative direction, and technical refinement across multiple sessions to produce a distinctive and functional result.
 
-![Gameplay](IMG_4504.jpg)
-![Game over screen](IMG_4505(1).jpg)
+![Gameplay](screenshots/IMG_4504.jpg)
+![Game over screen](screenshots/IMG_4505(1).jpg)
 
 # AI-Assisted Horror Game - Aippy Platform
 A horror-themed survival game designed and developed through iterative AI prompting and extensive manual customization. The player races against time through a dense forest, avoiding trees and monsters while navigating toward a cabin as the finish line.
